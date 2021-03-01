@@ -1,0 +1,8 @@
+eu\driftcraft\litescoreboard\listeners\PlayerListener.class
+eu\driftcraft\litescoreboard\LiteScoreboard.class
+eu\driftcraft\litescoreboard\core\LiteScoreboardManager.class
+eu\driftcraft\litescoreboard\core\LiteScoreboardStaticLine.class
+eu\driftcraft\litescoreboard\placeholders\LiteScoreboardPlaceholder.class
+eu\driftcraft\litescoreboard\placeholders\LiteScoreboardPlaceholderGetter.class
+eu\driftcraft\litescoreboard\core\LiteScoreboardDynamicLine.class
+eu\driftcraft\litescoreboard\config\LiteScoreboardConfig.class

@@ -1,0 +1,11 @@
+name: LiteScoreboard
+version: 1.0
+description: High performance scoreboard
+author: MatiXOR
+main: eu.driftcraft.litescoreboard.LiteScoreboard
+api-version: 1.13
+depend: [Vault,mcMMO]
+
+commands:
+   infinv: {}
+permissions:

@@ -1,0 +1,21 @@
+{
+    "updateInterval": 20,
+    "title": "--- LiteScoreboard ---",
+    "lines": [
+        "",
+        "      Time: %gametime%",
+        " Playtime: %playtime%",
+        "",
+        " Money: %money%",
+        " mcMMO: %mcmmo_power%",
+        "",
+        "     X: %x%",
+        "     Y: %y%",
+        "     Z: %z%",
+        "",
+        " Player kills: %playerkills%",
+        "     Mob kills: %mobkills%",
+        "       Deaths: %deaths%",
+        ""
+    ]
+}
