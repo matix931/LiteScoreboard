@@ -13,6 +13,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.UUID;
 import java.util.concurrent.ConcurrentHashMap;
+import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitTask;
 
@@ -104,7 +105,7 @@ public class LiteScoreboardManager implements Runnable {
         if(lines != null) {
             LiteScoreboardPlaceholder[] phList = LiteScoreboardPlaceholder.values();
             for(int i=0; i<lines.length; i++) {
-                final String line = lines[i];
+                final String line = ChatColor.translateAlternateColorCodes('&', lines[i]);
                 List<LiteScoreboardPlaceholder> phMatchesList = new ArrayList<>();
                 if(line.contains("%")) {
                     for (LiteScoreboardPlaceholder ph : phList) {

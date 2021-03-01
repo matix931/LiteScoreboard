@@ -1,21 +1,21 @@
 {
     "updateInterval": 20,
-    "title": "--- LiteScoreboard ---",
+    "title": "- LiteScoreboard -",
     "lines": [
-        "",
-        "      Time: %gametime%",
-        " Playtime: %playtime%",
-        "",
-        " Money: %money%",
-        " mcMMO: %mcmmo_power%",
-        "",
-        "     X: %x%",
-        "     Y: %y%",
-        "     Z: %z%",
-        "",
-        " Player kills: %playerkills%",
-        "     Mob kills: %mobkills%",
-        "       Deaths: %deaths%",
-        ""
+		"",
+		"      &7Time: &f%gametime%",
+		" &7Playtime: &f%playtime%",
+		"",
+		" &7mcMMO: &f%mcmmo_power%",
+		" &7Money: &f%money%",        
+		"",
+        "     &7X: &f%x%",
+        "     &7Y: &f%y%",
+		"     &7Z: &f%z%",
+		"",
+		" &7Player kills: &f%playerkills%",
+		"     &7Mob kills: &f%mobkills%",
+		"       &7Deaths: &f%deaths%",
+		""
     ]
 }
